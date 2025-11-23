@@ -1,11 +1,11 @@
 <header>
   <div align="center">
-    <h3>MSG3</h3>
+    <h3>MSG—3</h3>
     <p>
       Meridian Symposium & Global Exchange.
     </p>
     <p>
-      <a href="https://github.com/msg3x">Explore MSG3</a>&nbsp;.&nbsp;<a href="https://msg3.xyz">MSG3</a>
+      <a href="https://github.com/msg3x">Explore MSG3</a>&nbsp;.&nbsp;<a href="https://msg3.xyz">MSG—3</a>
     </p>
     <div>
       <a href="https://x.com/msg3">

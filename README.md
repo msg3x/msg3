@@ -1,16 +1,5 @@
 <header>
   <div align="center">
-    <a href="https://msg3.xyz">
-      <picture>
-        <source 
-          media="(prefers-color-scheme: dark)" 
-          srcset="" width="100%">
-        <img src="" width="100%">
-      </picture>
-    </a>
-  </div>
-  <br />
-  <div align="center">
     <h3>MSG3</h3>
     <p>
       Meridian Symposium & Global Exchange.

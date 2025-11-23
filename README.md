@@ -4,8 +4,8 @@
       <picture>
         <source 
           media="(prefers-color-scheme: dark)" 
-          srcset="https://github.com/user-attachments/assets/9a604f7c-ef9b-45a1-a3aa-f18cdb0a1cf7" width="100%">
-        <img src="https://github.com/user-attachments/assets/9e48e48f-1945-4224-ba8e-d3cc6ea06a1c" width="100%">
+          srcset="" width="100%">
+        <img src="" width="100%">
       </picture>
     </a>
   </div>
